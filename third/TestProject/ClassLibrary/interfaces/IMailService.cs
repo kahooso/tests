@@ -1,4 +1,4 @@
-﻿namespace ServiceBox
+﻿namespace ServiceBox.interfaces
 {
     public interface IMailService
     {

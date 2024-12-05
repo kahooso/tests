@@ -1,33 +1,31 @@
+using ServiceBox.mocks;
+using ServiceBox.stubs;
+
 namespace ServiceBox.Tests
 {
     public class ServiceBoxTests
     {
         [SetUp]
-        public void Setup()
-        {
-        }
+        public void Setup() { }
 
         [Test]
-        public void Test1()
+        public void Test_Files()
         {
-            StubLogService stubLogService = new StubLogService();
-            MockMailService mailService = new MockMailService();
+            StubLogService logService = new();
+            MockMailService mailService = new();
+            MockReportManager report = new();
+            StubDataAccess dataAccess = new();
 
-            BoxService box = new BoxService(stubLogService, mailService);
+            BoxService boxService = new(logService, mailService, dataAccess, report);
 
-            string fileName = "SomeFile.log";
-            box.Analize(fileName);
-
-            Assert.That(mailService.message, Is.EqualTo("FileExtension error: " + fileName));
+            boxService.ScanAllFiles();
 
             Assert.That(mailService.message, Is.EqualTo("FileExtension error: " +
-                report.reportdata[0].Or.EqualTo("FileExtension error: " +
-                report.reportdata[1].Or.EqualTo("FileExtension error: " +
+                report.reportData[0]).Or.EqualTo("FileExtension error: " +
+                report.reportData[1]).Or.EqualTo("FileExtension error: " +
                 report.reportData[2]));
 
-            Assert.That(report.reportdata, Is.TypeOf<List<string>>());
-        
+            Assert.That(report.reportData, Is.TypeOf<List<string>>());
         }
     }
 }
-

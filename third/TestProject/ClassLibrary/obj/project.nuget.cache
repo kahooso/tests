@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6Uhs7IWRVqoOhrNvXS7cfP/tno8MrHV1zdCUcG2Y2RP6MPAyHMk4/1wLApVxdx+e/F5FOLVmiL4880ztG9FLw==",
+  "dgSpecHash": "bMn9AKb8f7HmksBuNahlIkQdc4TLAMqHFiS0WjRh2VuaD9OvzRzp1jkmfM/5NwbiGB99GPzd4fGjIWXfIDuKTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\ServiceBox.csproj",
+  "projectFilePath": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\ServiceBox.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

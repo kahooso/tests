@@ -1,4 +1,6 @@
-﻿namespace ServiceBox
+﻿using ServiceBox.interfaces;
+
+namespace ServiceBox.mocks
 {
     public class MockMailService : IMailService
     {

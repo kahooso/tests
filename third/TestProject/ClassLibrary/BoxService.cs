@@ -1,4 +1,6 @@
-﻿namespace ServiceBox
+﻿using ServiceBox.interfaces;
+
+namespace ServiceBox
 {
     public class BoxService
     {
@@ -7,9 +9,9 @@
         private IDataAccess _dataAccess;
         private IReportManager _reportManager;
 
-        public BoxService(  ILogService logService, 
-                            IMailService mailService, 
-                            IDataAccess dataAccess, 
+        public BoxService(ILogService logService,
+                            IMailService mailService,
+                            IDataAccess dataAccess,
                             IReportManager reportManager)
         {
             _logService = logService;
@@ -18,27 +20,32 @@
             _reportManager = reportManager;
         }
 
-        public void Analize(string fileName)
+        public void ScanAllFiles()
         {
-            var fileNames = _dataAccess.getFileNames();
+            var fileNamesFromDB = _dataAccess.getFileNames();
+
             var reportData = new List<string>();
 
-            foreach ( var file in fileNames )
+            foreach (var file in fileNamesFromDB)
             {
-
                 try
                 {
-                    if (fileName.Length < 8)
-                        _logService.LogError("Filename too short: " + fileName);
+                    if (Path.GetExtension(file) != ".txt")
+                    {
+                        var message = $"FileExtension error: {file}";
+                        _logService.LogError(message);
+                    }
 
-                    if (Path.GetExtension(fileName) != ".txt")
-                        _logService.LogError("FileExtension error: " + fileName);
-                
-                    reportData.Add(fileName);
+                    if (file.Length < 8)
+                    {
+                        var message = $"Filename too short: {file}";
+                        _logService.LogError(message);
+                    }
                 }
                 catch (Exception ex)
                 {
-                    _mailService.sendMail(ex.Message, "some@mail.com");
+                    _mailService.sendMail(ex.Message, "support@example.com");
+                    reportData.Add(file);
                 }
             }
 
