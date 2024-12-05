@@ -22,9 +22,9 @@ namespace ServiceBox
 
         public void ScanAllFiles()
         {
-            var fileNamesFromDB = _dataAccess.getFileNames();
+            List<String> fileNamesFromDB = _dataAccess.getFileNames();
 
-            var reportData = new List<string>();
+            List<String> reportData = new List<string>();
 
             foreach (var file in fileNamesFromDB)
             {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+632f9e32892cae2ccdffc2f9f168c715ed166fcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51186a46c793318206324068350d4d0072d25205")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\mocks\\mocklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\mocks\\mocklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{861B38B4-5722-48EF-ADC6-337AD03EA83A}|TestProject\\TestProject.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{861B38B4-5722-48EF-ADC6-337AD03EA83A}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\mocks\\mockreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\interfaces\\ireportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\interfaces\\ireportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\boxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\boxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\mocks\\mockmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,18 +40,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryche\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\mocks\\mocklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\mocks\\mocklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\interfaces\\ireportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\interfaces\\ireportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|solutionrelative:classlibrary\\interfaces\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF2B13B5-4075-44AD-A421-BACC8CCC35BC}|ClassLibrary\\ServiceBox.csproj|c:\\users\\ryche\\desktop\\tests\\third\\testproject\\classlibrary\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 289,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,19 +69,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StubLogService.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\stubs\\StubLogService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\stubs\\StubLogService.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\stubs\\StubLogService.cs",
-              "RelativeToolTip": "ClassLibrary\\stubs\\StubLogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "DocumentIndex": 2,
+              "Title": "MockReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockReportManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\mocks\\MockReportManager.cs",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockReportManager.cs",
+              "RelativeToolTip": "ClassLibrary\\mocks\\MockReportManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T10:46:05.514Z"
+              "WhenOpened": "2024-12-05T07:47:02.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:21:36.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoxService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\BoxService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\BoxService.cs",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\BoxService.cs",
+              "RelativeToolTip": "ClassLibrary\\BoxService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:22:18.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IReportManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\interfaces\\IReportManager.cs",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IReportManager.cs",
+              "RelativeToolTip": "ClassLibrary\\interfaces\\IReportManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:47:14.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockLogService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\mocks\\MockLogService.cs",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockLogService.cs",
+              "RelativeToolTip": "ClassLibrary\\mocks\\MockLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:26:40.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IMailService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\interfaces\\IMailService.cs",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IMailService.cs",
+              "RelativeToolTip": "ClassLibrary\\interfaces\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:30:45.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MockMailService.cs",
               "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockMailService.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\mocks\\MockMailService.cs",
@@ -93,45 +159,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MockReportManager.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockReportManager.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\mocks\\MockReportManager.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockReportManager.cs",
-              "RelativeToolTip": "ClassLibrary\\mocks\\MockReportManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "DocumentIndex": 7,
+              "Title": "StubLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\stubs\\StubLogService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\stubs\\StubLogService.cs",
+              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\stubs\\StubLogService.cs",
+              "RelativeToolTip": "ClassLibrary\\stubs\\StubLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:47:02.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T10:46:05.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\TestProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\TestProject\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:21:36.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BoxService.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\BoxService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\BoxService.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\BoxService.cs",
-              "RelativeToolTip": "ClassLibrary\\BoxService.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAD4vzQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:22:18.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "StubDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\stubs\\StubDataAccess.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\stubs\\StubDataAccess.cs",
@@ -143,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Microsoft.NET.Test.Sdk.Program.cs",
               "DocumentMoniker": "C:\\Users\\ryche\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
@@ -152,42 +192,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T10:44:09.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MockLogService.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockLogService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\mocks\\MockLogService.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\mocks\\MockLogService.cs",
-              "RelativeToolTip": "ClassLibrary\\mocks\\MockLogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:26:40.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IReportManager.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IReportManager.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\interfaces\\IReportManager.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IReportManager.cs",
-              "RelativeToolTip": "ClassLibrary\\interfaces\\IReportManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:47:14.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IMailService.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IMailService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\interfaces\\IMailService.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\tests\\third\\TestProject\\ClassLibrary\\interfaces\\IMailService.cs",
-              "RelativeToolTip": "ClassLibrary\\interfaces\\IMailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:30:45.4Z"
             },
             {
               "$type": "Document",
