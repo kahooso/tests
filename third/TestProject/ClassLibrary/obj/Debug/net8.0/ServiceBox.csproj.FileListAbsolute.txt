@@ -1,0 +1,11 @@
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\bin\Debug\net8.0\ServiceBox.deps.json
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\bin\Debug\net8.0\ServiceBox.dll
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\bin\Debug\net8.0\ServiceBox.pdb
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\ServiceBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\ServiceBox.AssemblyInfoInputs.cache
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\ServiceBox.AssemblyInfo.cs
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\ServiceBox.csproj.CoreCompileInputs.cache
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\ServiceBox.dll
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\refint\ServiceBox.dll
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\ServiceBox.pdb
+C:\Users\ryche\OneDrive\Desktop\TestProject\ClassLibrary\obj\Debug\net8.0\ref\ServiceBox.dll

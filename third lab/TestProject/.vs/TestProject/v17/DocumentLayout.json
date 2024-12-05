@@ -1,13 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ryche\\Desktop\\TestProject\\",
+  "WorkspaceRootPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\desktop\\classlibrary\\boxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\boxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4376DC63-2C2E-46D3-B8EA-01DC4C131DE7}|TestProject.csproj|c:\\users\\ryche\\desktop\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4376DC63-2C2E-46D3-B8EA-01DC4C131DE7}|TestProject.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4376DC63-2C2E-46D3-B8EA-01DC4C131DE7}|TestProject.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4376DC63-2C2E-46D3-B8EA-01DC4C131DE7}|TestProject.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4376DC63-2C2E-46D3-B8EA-01DC4C131DE7}|TestProject.csproj|solutionrelative:testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\mocklogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\stublogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\mockreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\mockmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\mockdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\ireportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA9343-5DA9-4539-8529-68367724CFAC}|..\\ClassLibrary\\ClassLibrary.csproj|c:\\users\\ryche\\onedrive\\desktop\\tests\\third lab\\classlibrary\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,47 +48,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 289,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BoxService.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\ClassLibrary\\BoxService.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary\\BoxService.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\ClassLibrary\\BoxService.cs",
-              "RelativeToolTip": "..\\ClassLibrary\\BoxService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T12:27:11.18Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProject",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject.csproj",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T07:16:20.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ryche\\Desktop\\TestProject\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ryche\\Desktop\\TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAArwBAAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T11:56:47.912Z",
+              "WhenOpened": "2024-12-05T06:58:27.151Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 159,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoxService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\BoxService.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\BoxService.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\BoxService.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\BoxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:09:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockLogService.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\MockLogService.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockLogService.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\MockLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\ILogService.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ILogService.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\ILogService.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:48.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StubLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\StubLogService.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\StubLogService.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\StubLogService.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\StubLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:56.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MockReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockReportManager.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\MockReportManager.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockReportManager.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\MockReportManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:53.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MockMailService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockMailService.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\MockMailService.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockMailService.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\MockMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:52.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MockDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\MockDataAccess.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\MockDataAccess.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\MockDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:50.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\IReportManager.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\IReportManager.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\IReportManager.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\IReportManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\IMailService.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\IMailService.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\IMailService.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:49.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\IDataAccess.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\IDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:47.132Z",
+              "EditorCaption": ""
             }
           ]
         }

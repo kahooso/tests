@@ -1,5 +1,6 @@
 namespace ServiceBox.Tests
 {
+    [TestFixture]
     public class ServiceBoxTests
     {
         [SetUp]
@@ -8,15 +9,15 @@ namespace ServiceBox.Tests
         [Test]
         public void Test1()
         {
-            var logService = new StubLogService();
+            var logService = new MockLogService();
             var mailService = new MockMailService();
             var dataAccess = new MockDataAccess();
             var reportManager = new MockReportManager();
 
             var service = new BoxService(logService, mailService, dataAccess, reportManager);
-            service.Analize();
+            service.Analize("SomeFile.log");
 
-            Assert.AreEqual("No files retrieved from database.", logService.lastError);
+            Assert.That(logService.lastError, Is.EqualTo("No files retrieved from database."));
         }
     }
 }

@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryche\\Desktop\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\ryche\\Desktop\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\ryche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryche\\Desktop\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ryche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1018,15 +1018,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\ryche\\source\\repos\\MyPackage\\MyPackage\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ryche\\Desktop\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\ryche\\Desktop\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\ryche\\OneDrive\\Desktop\\tests\\third lab\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
