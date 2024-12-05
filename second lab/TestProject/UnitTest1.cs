@@ -16,7 +16,7 @@ namespace AirplaneNS.Tests
 
             while (tanker.getFuel() >= 15)
             {
-                Console.WriteLine($"--------------------Итерация -> {counter}--------------------");
+                Console.WriteLine($"--------------------Полёт -> {counter}--------------------");
                 double fuelBefore = airplane.getFuel();
                 double fuelRequested = airplane.getCapacity() - fuelBefore;
 
@@ -27,7 +27,7 @@ namespace AirplaneNS.Tests
                     Assert.That(tanker.getFuel(), Is.GreaterThanOrEqualTo(15.0));
                     Assert.That(airplane.getFuel() - fuelBefore, Is.EqualTo(fuelTankerGiven));
 
-                    Console.WriteLine($"Перед заправкой: {fuelBefore} л\nОстаток в танкере: {tanker.getFuel()} л\nЗапрошено: {fuelRequested} л\nВыдано танкером: {fuelTankerGiven} л");
+                    Console.WriteLine($"Перед заправкой: {fuelBefore} л\nЗапрошено: {fuelRequested} л\nОстаток в танкере: {tanker.getFuel()} л\nВыдано танкером: {fuelTankerGiven} л");
 
                     double burned = airplane.Fly();
                     Assert.That(burned, Is.InRange(500.0, 800.0));

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryche\\Desktop\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\ryche\\Desktop\\tests\\second lab\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryche\\Desktop\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\ryche\\Desktop\\tests\\second lab\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryche\\Desktop\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ryche\\Desktop\\tests\\second lab\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\ryche\\Desktop\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\ryche\\Desktop\\tests\\second lab\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\ryche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryche\\Desktop\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ryche\\Desktop\\tests\\second lab\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\ryche\\Desktop\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\ryche\\Desktop\\tests\\second lab\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryche\\Desktop\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\ryche\\Desktop\\tests\\second lab\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\ryche\\Desktop\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\ryche\\Desktop\\tests\\second lab\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\ryche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryche\\Desktop\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\ryche\\Desktop\\tests\\second lab\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryche\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ryche\\Desktop\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ryche\\Desktop\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\ryche\\Desktop\\tests\\second lab\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ryche\\Desktop\\tests\\second lab\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
